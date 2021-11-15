@@ -42,6 +42,7 @@ img {
 .profile__nav > div {
   font-size: 20px;
   color: #666;
+  cursor: pointer;
 }
 .profile__visual {
   text-align: center;
